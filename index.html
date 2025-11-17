@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="style-page-1.css">
+  <link rel="stylesheet" href="style-page-2.css">
+  <link rel="stylesheet" href="style-page-3.css">
+  <title>Turing Award</title>
+</head>
+
+<body>
+  <div class="page-1">
+    <div class="nav">
+      <div class="logo">
+        <img src="media/acm_turing_award_logo.png" alt="TA">
+        <p>TURING AWARD</p>
+      </div>
+    </div>
+    <div class="video-setting">
+
+      <video id="myVideo" autoplay loop>
+        <source src="media/Turing the Man.mp4" type="video/mp4">
+        Your browser does not support the video tag.
+      </video>
+      <div class="control" id="ctrl">
+        <img id="play-ctrl" src="media/icon/pause.png" alt="||">
+      </div>
+
+    </div>
+  </div>
+  <div class="page-2">
+    <p>Award Winner Gallery</p>
+    <div class="gallery">
+
+      <div id="gallery-pic-1" class="gallery-pic"></div>
+      <div id="gallery-pic-2" class="gallery-pic"></div>
+      <div id="gallery-pic-3" class="gallery-pic"></div>
+      <div id="gallery-pic-4" class="gallery-pic"></div>
+      <div id="gallery-pic-5" class="gallery-pic"></div>
+      <div id="gallery-pic-6" class="gallery-pic"></div>
+      <div id="gallery-pic-7" class="gallery-pic"></div>
+      <div id="gallery-pic-8" class="gallery-pic"></div>
+      <div id="gallery-pic-9" class="gallery-pic"></div>
+    </div>
+
+  </div>
+  <div class="page-3">
+
+    <div class="sort-bar">
+      <label>Sort by:</label>
+      <select id="sort-select">
+        <option value="year-desc">Year (Newest → Oldest)</option>
+        <option value="year-asc">Year (Oldest → Newest)</option>
+        <option value="name-asc">Name (A → Z)</option>
+        <option value="name-desc">Name (Z → A)</option>
+      </select>
+    </div>
+
+    <div id="award-container" class="award-container"></div>
+    <div id="pagination" class="pagination"></div>
+  </div>
+
+  <div class="page-4"></div>
+  <script src="control.js"></script>
+  <script src="galleryControl.js"></script>
+  <script src="table.js"></script>
+
+</body>
+
+</html>
