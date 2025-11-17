@@ -1,0 +1,506 @@
+[
+  {
+    "Year": "2024",
+    "Name": "Andrew Barto",
+    "Photo": "media\\Andrew_Barto.png",
+    "Affiliated institute(s)": "University of Massachusetts Amherst",
+    "Rationale": "For developing the conceptual and algorithmic foundations of reinforcement learning"
+  },
+  {
+    "Year": "2024",
+    "Name": "Richard S. Sutton",
+    "Photo": "media\\Richard_S_Sutton.jpg",
+    "Affiliated institute(s)": "University of Alberta, Amii",
+    "Rationale": "For developing the conceptual and algorithmic foundations of reinforcement learning"
+  },
+  {
+    "Year": "2023",
+    "Name": "Avi Wigderson",
+    "Photo": "media\\Avi_Wigderson.jpg",
+    "Affiliated institute(s)": "Institute for Advanced Study, Princeton University, Hebrew University of Jerusalem",
+    "Rationale": "For reshaping our understanding of the role of randomness in computation, and for decades of intellectual leadership in theoretical computer science"
+  },
+  {
+    "Year": "2022",
+    "Name": "Robert Metcalfe",
+    "Photo": "media\\Robert_Metcalfe.jpg",
+    "Affiliated institute(s)": "Massachusetts Institute of Technology, Harvard University, Xerox PARC, University of Texas at Austin",
+    "Rationale": "For the invention, standardization, and commercialization of Ethernet"
+  },
+  {
+    "Year": "2021",
+    "Name": "Jack Dongarra",
+    "Photo": "media\\Jack_Dongarra.jpg",
+    "Affiliated institute(s)": "Argonne National Laboratory, Oak Ridge National Laboratory, University of Manchester, Texas A&M University, Institute for Advanced Study, University of Tennessee, Rice University",
+    "Rationale": "For pioneering contributions to numerical algorithms and libraries that enabled high performance computational software to keep pace with exponential hardware improvements for over four decades"
+  },
+  {
+    "Year": "2020",
+    "Name": "Alfred Aho",
+    "Photo": "media\\Alfred_Aho.png",
+    "Affiliated institute(s)": "Bell Labs, Columbia University",
+    "Rationale": "For fundamental algorithms and theory underlying programming language implementation and for synthesizing these results and those of others in their highly influential books, which educated generations of computer scientists"
+  },
+  {
+    "Year": "2020",
+    "Name": "Jeffrey Ullman",
+    "Photo": "media\\Jeffrey_Ullman.png",
+    "Affiliated institute(s)": "Bell Labs, Princeton University, Stanford University",
+    "Rationale": "For fundamental algorithms and theory underlying programming language implementation and for synthesizing these results and those of others in their highly influential books, which educated generations of computer scientists"
+  },
+  {
+    "Year": "2019",
+    "Name": "Edwin Catmull",
+    "Photo": "media\\Edwin_Catmull.jpg",
+    "Affiliated institute(s)": "University of Utah, Pixar, Walt Disney Animation Studios",
+    "Rationale": "For fundamental contributions to 3-D computer graphics, and the revolutionary impact of these techniques on computer-generated imagery (CGI) in filmmaking and other applications"
+  },
+  {
+    "Year": "2019",
+    "Name": "Pat Hanrahan",
+    "Photo": "media\\Pat_Hanrahan.jpg",
+    "Affiliated institute(s)": "Pixar, Princeton University, Stanford University",
+    "Rationale": "For fundamental contributions to 3-D computer graphics, and the revolutionary impact of these techniques on computer-generated imagery (CGI) in filmmaking and other applications"
+  },
+  {
+    "Year": "2018",
+    "Name": "Yoshua Bengio",
+    "Photo": "media\\Yoshua_Bengio.jpg",
+    "Affiliated institute(s)": "Université de Montréal, McGill University, Mila",
+    "Rationale": "For conceptual and engineering breakthroughs that have made deep neural networks a critical component of computing"
+  },
+  {
+    "Year": "2018",
+    "Name": "Geoffrey Hinton",
+    "Photo": "media\\Geoffrey_Hinton.jpg",
+    "Affiliated institute(s)": "University of Toronto, University of California San Diego, Carnegie Mellon University, University College London, University of Edinburgh, Google AI",
+    "Rationale": "For conceptual and engineering breakthroughs that have made deep neural networks a critical component of computing"
+  },
+  {
+    "Year": "2018",
+    "Name": "Yann LeCun",
+    "Photo": "media\\Yann_LeCun.jpg",
+    "Affiliated institute(s)": "University of Toronto, Bell Labs, Courant Institute of Mathematical Sciences (NYU), Meta AI",
+    "Rationale": "For conceptual and engineering breakthroughs that have made deep neural networks a critical component of computing"
+  },
+  {
+    "Year": "2017",
+    "Name": "John L. Hennessy",
+    "Photo": "media\\John_L_Hennessy.jpg",
+    "Affiliated institute(s)": "Stanford University",
+    "Rationale": "For pioneering a systematic, quantitative approach to the design and evaluation of computer architectures with enduring impact on the microprocessor industry"
+  },
+  {
+    "Year": "2017",
+    "Name": "David Patterson",
+    "Photo": "media\\David_Patterson.jpg",
+    "Affiliated institute(s)": "University of California, Berkeley",
+    "Rationale": "For pioneering a systematic, quantitative approach to the design and evaluation of computer architectures with enduring impact on the microprocessor industry"
+  },
+  {
+    "Year": "2016",
+    "Name": "Tim Berners-Lee",
+    "Photo": "media\\Tim_Berners-Lee.jpg",
+    "Affiliated institute(s)": "CERN",
+    "Rationale": "For inventing the World Wide Web, the first web browser, and the fundamental protocols and algorithms allowing the Web to scale"
+  },
+  {
+    "Year": "2015",
+    "Name": "Whitfield Diffie",
+    "Photo": "media\\Whitfield_Diffie.jpg",
+    "Affiliated institute(s)": "Stanford University",
+    "Rationale": "For fundamental contributions to modern cryptography. Diffie and Hellman's groundbreaking 1976 paper, 'New Directions in Cryptography', introduced the ideas of public-key cryptography and digital signatures, which are the foundation for most regularly-used security protocols on the Internet today."
+  },
+  {
+    "Year": "2015",
+    "Name": "Martin Hellman",
+    "Photo": "media\\Martin_Hellman.jpg",
+    "Affiliated institute(s)": null,
+    "Rationale": "For fundamental contributions to modern cryptography. Diffie and Hellman's groundbreaking 1976 paper, 'New Directions in Cryptography', introduced the ideas of public-key cryptography and digital signatures, which are the foundation for most regularly-used security protocols on the Internet today."
+  },
+  {
+    "Year": "2014",
+    "Name": "Michael Stonebraker",
+    "Photo": "media\\Michael_Stonebraker.jpg",
+    "Affiliated institute(s)": "University of California, Berkeley",
+    "Rationale": "For fundamental contributions to the concepts and practices underlying modern database systems"
+  },
+  {
+    "Year": "2013",
+    "Name": "Leslie Lamport",
+    "Photo": "media\\Leslie_Lamport.jpg",
+    "Affiliated institute(s)": "Massachusetts Computer Associates (now Essig PLM)",
+    "Rationale": "For fundamental contributions to the theory and practice of distributed and concurrent systems, notably the invention of concepts such as causality and logical clocks, safety and liveness, replicated state machines, and sequential consistency"
+  },
+  {
+    "Year": "2012",
+    "Name": "Shafi Goldwasser",
+    "Photo": "media\\Shafi_Goldwasser.JPG",
+    "Affiliated institute(s)": "Massachusetts Institute of Technology",
+    "Rationale": "For transformative work that laid the complexity-theoretic foundations for the science of cryptography and in the process pioneered new methods for efficient verification of mathematical proofs in complexity theory"
+  },
+  {
+    "Year": "2012",
+    "Name": "Silvio Micali",
+    "Photo": "media\\Silvio_Micali.jpg",
+    "Affiliated institute(s)": "Weizmann Institute of Science",
+    "Rationale": "For transformative work that laid the complexity-theoretic foundations for the science of cryptography and in the process pioneered new methods for efficient verification of mathematical proofs in complexity theory"
+  },
+  {
+    "Year": "2011",
+    "Name": "Judea Pearl",
+    "Photo": "media\\Judea_Pearl.jpg",
+    "Affiliated institute(s)": "University of California, Los Angeles",
+    "Rationale": "For fundamental contributions to artificial intelligence through the development of a calculus for probabilistic and causal reasoning"
+  },
+  {
+    "Year": "2010",
+    "Name": "Leslie Valiant",
+    "Photo": "media\\Leslie_Valiant.jpg",
+    "Affiliated institute(s)": "Harvard University",
+    "Rationale": "For transformative contributions to the theory of computation, including the theory of probably approximately correct (PAC) learning, the complexity of enumeration and of algebraic computation, and the theory of parallel and distributed computing"
+  },
+  {
+    "Year": "2009",
+    "Name": "Charles P. Thacker",
+    "Photo": "media\\Charles_P_Thacker.jpg",
+    "Affiliated institute(s)": "PARC",
+    "Rationale": "For his pioneering design and realization of the Xerox Alto, the first modern personal computer, and in addition for his contributions to the Ethernet and the Tablet PC"
+  },
+  {
+    "Year": "2008",
+    "Name": "Barbara Liskov",
+    "Photo": "media\\Barbara_Liskov.jpg",
+    "Affiliated institute(s)": "Massachusetts Institute of Technology",
+    "Rationale": "For contributions to practical and theoretical foundations of programming language and system design, especially related to data abstraction, fault tolerance, and distributed computing"
+  },
+  {
+    "Year": "2007",
+    "Name": "Edmund M. Clarke",
+    "Photo": "media\\Edmund_M_Clarke.jpg",
+    "Affiliated institute(s)": "Harvard University",
+    "Rationale": "For their role in developing model checking into a highly effective verification technology, widely adopted in the hardware and software industries"
+  },
+  {
+    "Year": "2007",
+    "Name": "E. Allen Emerson",
+    "Photo": "media\\E_Allen_Emerson.jpg",
+    "Affiliated institute(s)": "Carnegie Mellon University",
+    "Rationale": "For their role in developing model checking into a highly effective verification technology, widely adopted in the hardware and software industries"
+  },
+  {
+    "Year": "2007",
+    "Name": "Joseph Sifakis",
+    "Photo": "media\\Joseph_Sifakis.jpg",
+    "Affiliated institute(s)": "University of Texas at Austin",
+    "Rationale": "For their role in developing model checking into a highly effective verification technology, widely adopted in the hardware and software industries"
+  },
+  {
+    "Year": "2006",
+    "Name": "Frances Allen",
+    "Photo": "media\\Frances_Allen.jpg",
+    "Affiliated institute(s)": "IBM",
+    "Rationale": "For pioneering contributions to the theory and practice of optimizing compiler techniques that laid the foundation for modern optimizing compilers and automatic parallel execution"
+  },
+  {
+    "Year": "2005",
+    "Name": "Peter Naur",
+    "Photo": "media\\Peter_Naur.JPG",
+    "Affiliated institute(s)": "Regnecentralen (now Fujitsu)",
+    "Rationale": "For fundamental contributions to programming language design and the definition of ALGOL 60, to compiler design, and to the art and practice of computer programming"
+  },
+  {
+    "Year": "2004",
+    "Name": "Vint Cerf",
+    "Photo": "media\\Vint_Cerf.jpg",
+    "Affiliated institute(s)": "University of California, Los Angeles",
+    "Rationale": "For pioneering work on internetworking, including the design and implementation of the Internet's basic communications protocols, TCP/IP, and for inspired leadership in networking"
+  },
+  {
+    "Year": "2004",
+    "Name": "Bob Kahn",
+    "Photo": "media\\Bob_Kahn.jpg",
+    "Affiliated institute(s)": "Stanford University",
+    "Rationale": "For pioneering work on internetworking, including the design and implementation of the Internet's basic communications protocols, TCP/IP, and for inspired leadership in networking"
+  },
+  {
+    "Year": "2003",
+    "Name": "Alan Kay",
+    "Photo": "media\\Alan_Kay.jpg",
+    "Affiliated institute(s)": "University of Utah",
+    "Rationale": "For pioneering many of the ideas at the root of contemporary object-oriented programming languages, leading the team that developed Smalltalk, and for fundamental contributions to personal computing"
+  },
+  {
+    "Year": "2002",
+    "Name": "Leonard Adleman",
+    "Photo": "media\\Leonard_Adleman.jpg",
+    "Affiliated institute(s)": "University of Southern California",
+    "Rationale": "For their ingenious contribution for making public-key cryptography useful in practice."
+  },
+  {
+    "Year": "2002",
+    "Name": "Ron Rivest",
+    "Photo": "media\\Ron_Rivest.jpg",
+    "Affiliated institute(s)": "Massachusetts Institute of Technology",
+    "Rationale": "For their ingenious contribution for making public-key cryptography useful in practice."
+  },
+  {
+    "Year": "2002",
+    "Name": "Adi Shamir",
+    "Photo": "media\\Adi_Shamir.jpg",
+    "Affiliated institute(s)": "Weizmann Institute of Science",
+    "Rationale": "For their ingenious contribution for making public-key cryptography useful in practice."
+  },
+  {
+    "Year": "2002",
+    "Name": "Leonard Adleman",
+    "Photo": "media\\Leonard_Adleman.jpg",
+    "Affiliated institute(s)": "University of Southern California",
+    "Rationale": "For their ingenious contribution for making public-key cryptography useful in practice"
+  },
+  {
+    "Year": "2002",
+    "Name": "Ron Rivest",
+    "Photo": "media\\Ron_Rivest.jpg",
+    "Affiliated institute(s)": "Massachusetts Institute of Technology",
+    "Rationale": "For their ingenious contribution for making public-key cryptography useful in practice"
+  },
+  {
+    "Year": "2002",
+    "Name": "Adi Shamir",
+    "Photo": "media\\Adi_Shamir.jpg",
+    "Affiliated institute(s)": "Weizmann Institute of Science",
+    "Rationale": "For their ingenious contribution for making public-key cryptography useful in practice"
+  },
+  {
+    "Year": "2001",
+    "Name": "Ole-Johan Dahl",
+    "Photo": "media\\Ole-Johan_Dahl.png",
+    "Affiliated institute(s)": "Norwegian Computing Center",
+    "Rationale": "For ideas fundamental to the emergence of object-oriented programming, through their design of the programming languages Simula I and Simula 67."
+  },
+  {
+    "Year": "2001",
+    "Name": "Kristen Nygaard",
+    "Photo": "media\\Kristen_Nygaard.png",
+    "Affiliated institute(s)": "University of Oslo",
+    "Rationale": "For ideas fundamental to the emergence of object-oriented programming, through their design of the programming languages Simula I and Simula 67."
+  },
+  {
+    "Year": "2000",
+    "Name": "Andrew Yao",
+    "Photo": "media\\Andrew_Yao.jpg",
+    "Affiliated institute(s)": "Stanford University",
+    "Rationale": "In recognition of his fundamental contributions to the theory of computation, including the complexity-based theory of pseudorandom number generation, cryptography, and communication complexity."
+  },
+  {
+    "Year": "1999",
+    "Name": "Fred Brooks",
+    "Photo": "media\\Fred_Brooks.jpg",
+    "Affiliated institute(s)": "IBM",
+    "Rationale": "For landmark contributions to computer architecture, operating systems, and software engineering."
+  },
+  {
+    "Year": "1998",
+    "Name": "Jim Gray",
+    "Photo": "media\\Jim_Gray.jpg",
+    "Affiliated institute(s)": "IBM",
+    "Rationale": "For seminal contributions to database and transaction processing research and technical leadership in system implementation."
+  },
+  {
+    "Year": "1997",
+    "Name": "Douglas Engelbart",
+    "Photo": "media\\Douglas_Engelbart.jpg",
+    "Affiliated institute(s)": "SRI International",
+    "Rationale": "For an inspiring vision of the future of interactive computing and the invention of key technologies to help realize this vision."
+  },
+  {
+    "Year": "1996",
+    "Name": "Amir Pnueli",
+    "Photo": "media\\Amir_Pnueli.jpg",
+    "Affiliated institute(s)": "Stanford University",
+    "Rationale": "For seminal work introducing temporal logic into computing science and for outstanding contributions to program and systems verification."
+  },
+  {
+    "Year": "1995",
+    "Name": "Manuel Blum",
+    "Photo": "media\\Manuel_Blum.jpg",
+    "Affiliated institute(s)": "University of California, Berkeley",
+    "Rationale": "In recognition of his contributions to the foundations of computational complexity theory and its application to cryptography and program checking."
+  },
+  {
+    "Year": "1994",
+    "Name": "Edward Feigenbaum",
+    "Photo": "media\\Edward_Feigenbaum.jpg",
+    "Affiliated institute(s)": "Stanford University",
+    "Rationale": "For pioneering the design and construction of large-scale artificial intelligence systems, demonstrating the practical importance and potential commercial impact of artificial intelligence technology."
+  },
+  {
+    "Year": "1994",
+    "Name": "Raj Reddy",
+    "Photo": "media\\Raj_Reddy.jpg",
+    "Affiliated institute(s)": "Carnegie Mellon University",
+    "Rationale": "For pioneering the design and construction of large-scale artificial intelligence systems, demonstrating the practical importance and potential commercial impact of artificial intelligence technology."
+  },
+  {
+    "Year": "1993",
+    "Name": "Juris Hartmanis",
+    "Photo": "media\\Juris_Hartmanis.jpg",
+    "Affiliated institute(s)": "General Electric Research Laboratory (now under Groupe Bull, an Atos company)",
+    "Rationale": "In recognition of their seminal paper which established the foundations for the field of computational complexity theory."
+  },
+  {
+    "Year": "1993",
+    "Name": "Richard E. Stearns",
+    "Photo": "media\\Richard_E_Stearns.jpg",
+    "Affiliated institute(s)": null,
+    "Rationale": "In recognition of their seminal paper which established the foundations for the field of computational complexity theory."
+  },
+  {
+    "Year": "1992",
+    "Name": "Butler Lampson",
+    "Photo": "media\\Butler_Lampson.jpg",
+    "Affiliated institute(s)": "PARC",
+    "Rationale": "For contributions to the development of distributed, personal computing environments and the technology for their implementation: workstations, networks, operating systems, programming systems, displays, security and document publishing."
+  },
+  {
+    "Year": "1991",
+    "Name": "Robin Milner",
+    "Photo": "media\\Robin_Milner.png",
+    "Affiliated institute(s)": "Stanford University",
+    "Rationale": "For three distinct and complete achievements: LCF, the mechanization of Scott's Logic of Computable Functions, probably the first theoretically based yet practical tool for machine assisted proof construction; ML, the first language to include polymorphic type inference together with a type-safe exception-handling mechanism; CCS, a general theory of concurrency. In addition, he formulated and strongly advanced full abstraction, the study of the relationship between operational and denotational semantics."
+  },
+  {
+    "Year": "1990",
+    "Name": "Fernando J. Corbató",
+    "Photo": "media\\Fernando_J_Corbató.jpg",
+    "Affiliated institute(s)": "Massachusetts Institute of Technology",
+    "Rationale": "For his pioneering work organizing the concepts and leading the development of the general-purpose, large-scale, time-sharing and resource-sharing computer systems, CTSS and Multics."
+  },
+  {
+    "Year": "1989",
+    "Name": "William Kahan",
+    "Photo": "media\\William_Kahan.jpg",
+    "Affiliated institute(s)": "University of California, Berkeley",
+    "Rationale": "For his fundamental contributions to numerical analysis. One of the foremost experts on floating-point computations, Kahan has dedicated himself to 'making the world safe for numerical computations!'"
+  },
+  {
+    "Year": "1988",
+    "Name": "Ivan Sutherland",
+    "Photo": "media\\Ivan_Sutherland.jpg",
+    "Affiliated institute(s)": "Stanford University",
+    "Rationale": "For his pioneering and visionary contributions to computer graphics, starting with Sketchpad, and continuing after."
+  },
+  {
+    "Year": "1987",
+    "Name": "John Cocke",
+    "Photo": "media\\John_Cocke.png",
+    "Affiliated institute(s)": "IBM",
+    "Rationale": "For significant contributions in the design and theory of compilers, the architecture of large systems and the development of reduced instruction set computers (RISC)."
+  },
+  {
+    "Year": "1986",
+    "Name": "John Hopcroft",
+    "Photo": "media\\John_Hopcroft.jpg",
+    "Affiliated institute(s)": "Cornell University",
+    "Rationale": "For fundamental achievements in the design and analysis of algorithms and data structures."
+  },
+  {
+    "Year": "1986",
+    "Name": "Robert Tarjan",
+    "Photo": "media\\Robert_Tarjan.jpg",
+    "Affiliated institute(s)": "Stanford University",
+    "Rationale": "For fundamental achievements in the design and analysis of algorithms and data structures."
+  },
+  {
+    "Year": "1985",
+    "Name": "Richard M. Karp",
+    "Photo": "media\\Richard_M_Karp.jpg",
+    "Affiliated institute(s)": "University of California, Berkeley",
+    "Rationale": "For his continuing contributions to the theory of algorithms including the development of efficient algorithms for network flow and other combinatorial optimization problems, the identification of polynomial-time computability with the intuitive notion of algorithmic efficiency, and, most notably, contributions to the theory of NP-completeness."
+  },
+  {
+    "Year": "1984",
+    "Name": "Niklaus Wirth",
+    "Photo": "media\\Niklaus_Wirth.jpg",
+    "Affiliated institute(s)": "Stanford University",
+    "Rationale": "For developing a sequence of innovative computer languages, EULER, ALGOL-W, Pascal, MODULA, and Oberon."
+  },
+  {
+    "Year": "1983",
+    "Name": "Dennis Ritchie",
+    "Photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Dennis_Ritchie_2011.jpg/120px-Dennis_Ritchie_2011.jpg",
+    "Affiliated institute(s)": "Bell Labs",
+    "Rationale": "For their development of generic operating systems theory and specifically for the implementation of the UNIX operating system."
+  },
+  {
+    "Year": "1983",
+    "Name": "Ken Thompson",
+    "Photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Ken_Thompson_02.jpg/120px-Ken_Thompson_02.jpg",
+    "Affiliated institute(s)": "Bell Labs",
+    "Rationale": "For their development of generic operating systems theory and specifically for the implementation of the UNIX operating system."
+  }, 
+  {
+    "Year": "1982",
+    "Name": "Stephen Cook",
+    "Photo": "media\\Stephen_Cook.jpg",
+    "Affiliated institute(s)": "University of Toronto",
+    "Rationale": "For his advancement of our understanding of the complexity of computation in a significant and profound way."
+  },
+  {
+    "Year": "1981",
+    "Name": "Edgar F. Codd",
+    "Photo": "media\\Edgar_F_Codd.png",
+    "Affiliated institute(s)": "IBM",
+    "Rationale": "For his fundamental and continuing contributions to the theory and practice of database management systems, especially relational databases."
+  },
+  {
+    "Year": "1980",
+    "Name": "Tony Hoare",
+    "Photo": "media\\Tony_Hoare.jpg",
+    "Affiliated institute(s)": "Queen's University Belfast",
+    "Rationale": "For his fundamental contributions to the definition and design of programming languages."
+  },
+  {
+    "Year": "1979",
+    "Name": "Kenneth E. Iverson",
+    "Photo": "media\\Kenneth_E_Iverson.png",
+    "Affiliated institute(s)": "IBM",
+    "Rationale": "For his pioneering effort in programming languages and mathematical notation resulting in what the computing field now knows as APL, for his contributions to the implementation of interactive systems, to educational uses of APL, and to programming language theory and practice."
+  },
+  {
+    "Year": "1970",
+    "Name": "James H. Wilkinson",
+    "Photo": "media\\James_H_Wilkinson.png",
+    "Affiliated institute(s)": "National Physical Laboratory",
+    "Rationale": "For his research in numerical analysis to facilitate the use of the high-speed digital computer, having received special recognition for his work in computations in linear algebra and 'backward' error analysis"
+  },
+  {
+    "Year": "1969",
+    "Name": "Marvin Minsky",
+    "Photo": "media\\Marvin_Minsky.jpg",
+    "Affiliated institute(s)": "Massachusetts Institute of Technology",
+    "Rationale": "For his central role in creating, shaping, promoting, and advancing the field of artificial intelligence"
+  },
+  {
+    "Year": "1968",
+    "Name": "Richard Hamming",
+    "Photo": "media\\Richard_Hamming.png",
+    "Affiliated institute(s)": "Bell Labs",
+    "Rationale": "For his work on numerical methods, automatic coding systems, and error-detecting and error-correcting codes"
+  },
+  {
+    "Year": "1967",
+    "Name": "Maurice Wilkes",
+    "Photo": "media\\Maurice_Wilkes.jpg",
+    "Affiliated institute(s)": "University of Cambridge",
+    "Rationale": "Wilkes is best known as the builder and designer of the EDSAC, the second computer with an internally stored program. Built in 1949, the EDSAC used a mercury delay line memory. He is also known as the author, with David Wheeler and Stanley Gill, of 'Preparation of Programs for Electronic Digital Computers' in 1951, in which program libraries were effectively introduced."
+  },
+  {
+    "Year": "1966",
+    "Name": "Alan Perlis",
+    "Photo": "media\\Alan_Perlis.png",
+    "Affiliated institute(s)": "Carnegie Mellon University",
+    "Rationale": "For his influence in the area of advanced computer programming techniques and compiler construction"
+  }
+]
